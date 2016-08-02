@@ -1,0 +1,1 @@
+angular.module('sampleApp', ['ngRoute', 'appRoutes', 'gameCtrl', 'loginCtrl', 'loginService', 'editorCtrl', 'statsCtrl', 'selectorCtrl', 'dataService']);
